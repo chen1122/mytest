@@ -43,6 +43,7 @@ public class IndexSearcherTest {
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+			system.out.println("11");
 		}
 	}
 	
